@@ -1,0 +1,68 @@
+.cardContainer {
+    padding: 3rem 0;
+}
+
+.formContainer {
+    padding: 0 0 3rem;
+}
+
+.nav-tabs .nav-link {
+    background-color: transparent !important;
+    color: #252a32 !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    outline: none;
+}
+
+.nav-tabs .nav-link.active {
+    border-bottom: solid 4px #252a32 !important;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.cardStyle {
+    box-shadow: 2px 2px 4px #ccc;
+    cursor: pointer;
+}
+
+.accordTitleStyle{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.accordTitleStyle{
+    outline: none !important;
+}
+.accordTitleStyle:focus{
+    outline: none !important;
+}
+
+.accordTitleStyle img{
+    width: 20px;
+}
+
+.personData{
+    background: #fff;
+    padding: .5rem 0 1rem;
+}
+
+.nameList img{
+    width: 20px;
+}
+
+.dropdown-toggle{
+    width: 100%;
+}
+
+.backarrow{
+    width: 20px;
+}
+
+.backBtn {
+    display: flex;
+    gap: .5rem;
+    align-items: center;
+}

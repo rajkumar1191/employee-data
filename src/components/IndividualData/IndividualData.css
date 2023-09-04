@@ -1,0 +1,15 @@
+.modal-dialog{
+    max-width: 65%;
+}
+tr{
+    font-size: 1rem;
+}
+
+@media screen and (max-width: 998px) {
+    .modal-dialog{
+        max-width: 100%;
+    }   
+    tr{
+        font-size: 0.7rem;
+    }
+}
